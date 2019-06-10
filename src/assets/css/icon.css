@@ -1,0 +1,11 @@
+
+    [class*=" el-icon-lx"], [class^=el-icon-lx] {
+        font-family: lx-iconfont !important;
+    }
+    .el-table thead{
+        color:rgba(163,173,200,1);
+    }
+    .el-table {
+        color: #323e61;
+        font-size: 14px;
+      }
