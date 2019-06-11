@@ -4,12 +4,11 @@
       <div class="fl login-logo">
       <img src="../../assets/img/logo_.png" alt>
      </div>
-      <div class="fr login-contact">联系我们：021-60654047</div>
+      <div class="fr login-contact">联系我们：2525222222222</div>
     </div>
     <div class="main clearfix">
-      <img src="../../assets/img/login_bg.png" alt>
       <div class="rightForm  login_main">
-        <p>欢迎登录票+</p>
+        <p>欢迎您</p>
         <el-form :model="ruleForm" :rules="rules" ref="ruleForm" label-width="0px">
            <div class="icon_phone">登录手机</div>
           <el-form-item prop="username" class="name">
